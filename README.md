@@ -1,4 +1,5 @@
-#1644 Cloud Computing
+# 1644 Cloud Computing
+This is a project of group 7 from Greenwich Vietnam
 ## Getting Started
 ### Installation steps
 1. Download NodeJS (version 18.12.1)
@@ -14,6 +15,9 @@ node -v
 npm install -g nodemon
 ```
 
-## Authors
+## Team 7 members
 
-- [@Minh8x8](https://github.com/Minh8x8)
+- [@Dang Van Tri Minh](https://github.com/Minh8x8)
+- [@Huynh Cong Chien](https://github.com/Wowwhat1)
+- [@Nguyen Tuan Kiet](https://github.com/KieTuaNguyen)
+- [@Tong Viet Tien]()
