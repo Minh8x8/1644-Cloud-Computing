@@ -20,6 +20,16 @@ To run Nodemon
 nodemon [name of the file]
 ```
 
+4. Download Express
+```bash
+npm i express
+```
+
+5. Create package json 
+```bash
+npm init
+```
+
 ## Team 7 members
 
 - [@Dang Van Tri Minh](https://github.com/Minh8x8)
